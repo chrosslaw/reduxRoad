@@ -1,1 +1,2 @@
 # reduxRoad
+Codecademy Redux project
